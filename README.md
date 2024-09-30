@@ -49,3 +49,12 @@ listing x days in the future. Note a listing may be available
 because it has been booked by a guest or blocked by the
 host.
 -  `number_of_reviews_ltm` The number of reviews the listing has in the last 12 months (cumulative).
+## Median Price per Neighbourhood
+  ![image](https://github.com/user-attachments/assets/77125d96-57ca-45a5-a2fb-01f43b74d276)
+
+
+## Folium visualization of listings 
+
+![image](https://github.com/user-attachments/assets/f9b3cd22-1c60-4be9-8c81-d11ec0434d27)
+
+
